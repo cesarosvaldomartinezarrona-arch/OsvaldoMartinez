@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osvaldo Martinez</h1>
-<h3 align="center">Student at UTL, Negocios Digitales🌟.</h3>
+<h3 align="center">I studied Digital Business at UTL🌟 currently at UVEG.</h3>
 
 <br>
 
